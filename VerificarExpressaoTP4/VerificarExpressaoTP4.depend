@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1568670985 source:c:\users\skyys\documents\chiara\verificarexpressaotp4\main.cpp
+	<iostream>
+	"Pilha.h"
+	"Expressao.h"
+	<string>
+
+1568670969 c:\users\skyys\documents\chiara\verificarexpressaotp4\pilha.h
+
+1568669941 c:\users\skyys\documents\chiara\verificarexpressaotp4\expressao.h
+	"Pilha.h"
+
+1568736248 source:c:\users\gabri\desktop\fatec\chiara\verificarexpressaotp4\main.cpp
+	<iostream>
+	"Pilha.h"
+	"Expressao.h"
+	<string>
+
+1568736494 c:\users\gabri\desktop\fatec\chiara\verificarexpressaotp4\pilha.h
+
+1568728860 c:\users\gabri\desktop\fatec\chiara\verificarexpressaotp4\expressao.h
+	<math.h>
+

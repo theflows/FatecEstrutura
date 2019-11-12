@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1571874409 source:c:\users\lab5\desktop\listacordenada\main.cpp
+	<iostream>
+	"filaligada.h"
+	"node.h"
+
+1571876251 c:\users\lab5\desktop\listacordenada\filaligada.h
+	"node.h"
+
+1571869090 c:\users\lab5\desktop\listacordenada\node.h
+
+1573576682 source:c:\users\gabri\desktop\fatec\chiara\listardenada\main.cpp
+	<iostream>
+	"filaligada.h"
+	"node.h"
+
+1573576831 c:\users\gabri\desktop\fatec\chiara\listardenada\filaligada.h
+	"node.h"
+
+1571869090 c:\users\gabri\desktop\fatec\chiara\listardenada\node.h
+

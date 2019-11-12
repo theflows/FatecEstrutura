@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570073212 source:c:\users\jlin\desktop\pilhafilaligada\main.cpp
+	<iostream>
+	<stdlib.h>
+	"FilaLigada.h"
+	"PilhaLigada.h"
+	"Node.h"
+
+1570072658 c:\users\jlin\desktop\pilhafilaligada\filaligada.h
+	"Node.h"
+
+1570070698 c:\users\jlin\desktop\pilhafilaligada\node.h
+
+1570071278 c:\users\jlin\desktop\pilhafilaligada\pilhaligada.h
+
