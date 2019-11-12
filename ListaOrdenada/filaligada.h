@@ -50,22 +50,26 @@ struct Lista{
                 while ( aux2->prox != NULL && x == aux2->prox->info){
                     aux2=aux2->prox;
                 }
+                if (x == aux2->info){
                 aux->prox = aux2 -> prox;
                 aux2->prox=aux;
+                }
+                else
+                    v=false;
             }}
 
         delete aux;
         return v;
 }
-    bool busca(Tipo x){
-        bool v=true;
-        Node<Tipo> *aux2=h;
-         while ( aux2->prox != NULL && x == aux2->prox->info){
-                    aux2=aux2->prox;
+    int busca(Tipo x){
+         int i=0;
+         Node<Tipo> *aux2=h;
+         while ( aux2->prox != NULL){
+              if(x == aux2->info){
+                    i++;}
+                aux2=aux2->prox;
                 }
-        if (aux2->prox == NULL)
-            v=false;
-        return v;
+        return i;
  }
 
 
